@@ -13,7 +13,7 @@
 
 ## Oiii!!
 
-Tenho 20 anos, moro em Manaus/MG e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 20 anos, moro em Manaus/Am e sou apaixonada por tecnologia. Sou meio iniciante no universo da programação, atualmente aprendendo bastante Java para desenvolvimento de apps :) e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 
 </br>
