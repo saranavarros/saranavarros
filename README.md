@@ -15,6 +15,8 @@
 
 Tenho 20 anos, moro em Manaus/Am e sou apaixonada por tecnologia. Sou meio iniciante no universo da programação, atualmente aprendendo bastante Java para desenvolvimento de apps :) e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
+![image](https://github.com/saranavarros/saranavarros/blob/main/octocat-1668477354799.png)
+
 
 </br>
 <div>
