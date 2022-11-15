@@ -1,6 +1,4 @@
 
-## Bem vindo ao meu perfil no GitHub 👋
-
 <div dsplay="inline-block">
  <h1 align="left">Sara Navarro</h1>
  <a href="https://www.instagram.com/msara.n/">
@@ -13,9 +11,11 @@
 
 ## Oiii!!
 
-Tenho 20 anos, moro em Manaus/Am e sou apaixonada por tecnologia. Sou meio iniciante no universo da programação, atualmente aprendendo bastante Java para desenvolvimento de apps :) e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 20 anos, moro em Manaus/Am e sou apaixonada por tecnologia. Sou estudante de engenharia da computação, atualmente aprendendo bastante Java para desenvolvimento de apps :) e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
-![image](https://github.com/saranavarros/saranavarros/blob/main/octocat-1668477354799.png)
+<div align="center">
+<img src="https://github.com/saranavarros/saranavarros/blob/main/octocat-1668477354799.png" width="600px" />
+</div>
 
 
 </br>
@@ -26,6 +26,22 @@ Tenho 20 anos, moro em Manaus/Am e sou apaixonada por tecnologia. Sou meio inici
 </div>
 
 </br>
+
+<h3>Tecnologias que estou estudando</h3>
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+</br>
+<h3>Tecnologias que quero me aprofundar</h3>
+
+![image](	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 </br>
 
 
